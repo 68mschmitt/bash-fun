@@ -1,0 +1,15 @@
+README.md
+case-statements.sh
+command_line_var.sh
+conditionals.sh
+cron_scheduling.sh
+debug_script.sh
+files.txt
+input.txt
+loops.sh
+output.txt
+read_from_file.sh
+redirect_output.sh
+run_all.sh
+welcome_var.sh
+write_to_a_file.sh
